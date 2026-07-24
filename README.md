@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# SoftBench Renderer
-=======
 # SoftBench Software Renderer
->>>>>>> 18e3538794efe6353fda0efc424276302f63287a
 
 PS1-style fixed-point software rasterizer plugin for [Blockbench](https://www.blockbench.net/).
 
