@@ -1,4 +1,4 @@
-# Software Renderer
+# SoftBench Software Renderer
 
 PS1-style fixed-point software rasterizer for Blockbench.
 
